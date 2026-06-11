@@ -1,0 +1,16 @@
+# Xcode / Swift
+.build/
+DerivedData/
+*.xcworkspace
+*.xcuserdata
+Pods/
+
+# macOS
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Build artifacts
+*.dSYM.zip
+*.dSYM
