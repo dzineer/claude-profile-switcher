@@ -31,15 +31,10 @@ Grab the latest `.app` from [Releases](https://github.com/dzineer/claude-profile
 
 ## Quick Start
 
-```bash
-# Copy your current state into a named profile
-cp -a ~/Library/Application\ Support/Claude ~/Library/Application\ Support/Claude-Personal
-
-# Create an empty profile for a second account
-mkdir ~/Library/Application\ Support/Claude-Work
-```
-
-Launch the app, switch between profiles, and sign into each account once.
+1. Launch the app — click **Convert** to save your current Claude as a named profile
+2. Click **＋ New** to create an empty profile for your second account
+3. **Switch** to it, relaunch Claude, and sign in fresh with the other account
+4. Switch back and forth anytime
 
 ## Build from Source
 
