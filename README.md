@@ -2,8 +2,6 @@
 
 A native macOS app to manage multiple Claude Desktop profiles. Switch between personal and work accounts with a single click.
 
-![Normal Mode](screenshot-normal.png) · ![Multi Profile](screenshot-profiles.png)
-
 ## How it works
 
 Claude Desktop stores everything — chats, auth tokens, preferences — in `~/Library/Application Support/Claude/`. This app manages **separate folders** (`Claude-Personal`, `Claude-Work`, etc.) and swaps a symlink to activate the one you want.
